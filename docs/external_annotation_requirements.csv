@@ -1,0 +1,11 @@
+script,environment,key,role
+plotting/historical/make_manuscript_figures.R,ICI_HISTORICAL_DISPLAY_LABELS,organoid_overview,exact legacy display text from archived input; NOT a recomputed result
+plotting/historical/make_manuscript_figures.R,ICI_HISTORICAL_DISPLAY_LABELS,receiver_correlation,exact legacy display text from archived input; NOT a recomputed result
+plotting/historical/make_manuscript_figures.R,ICI_HISTORICAL_DISPLAY_LABELS,reciprocity_title,exact legacy display text from archived input; NOT a recomputed result
+plotting/historical/make_manuscript_figures.R,ICI_HISTORICAL_DISPLAY_LABELS,tcr_sample_coverage,exact legacy display text from archived input; NOT a recomputed result
+plotting/historical/make_manuscript_figures.R,ICI_HISTORICAL_DISPLAY_LABELS,tcr_coupling_statistics,exact legacy display text from archived input; NOT a recomputed result
+plotting/recorded_closeout/plot_final.R,ICI_HISTORICAL_DISPLAY_LABELS,selected_core_label,exact legacy set display label; membership remains external
+plotting/recorded_closeout/plot_final.R,ICI_HISTORICAL_DISPLAY_LABELS,selected_down_label,exact legacy set display label; membership remains external
+plotting/recorded_closeout/plot_final.R,ICI_HISTORICAL_DISPLAY_LABELS,selected_up_label,exact legacy set display label; membership remains external
+plotting/tables/historical/build_final_synthesis_tables.py,ICI_HISTORICAL_ANNOTATIONS,ligands;gate_rows;claims;candidate_decisions,versioned historical report annotations; no automatic candidate decision
+analysis/clinical/run_icb_efficacy_guardrail.R,ICI_RECEPTOR_MAP,ligand -> array of receptor symbols,immutable versioned reference membership; recover from original source without reselection

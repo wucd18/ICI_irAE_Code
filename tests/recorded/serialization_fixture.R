@@ -1,0 +1,12 @@
+suppressPackageStartupMessages({library(Seurat);library(Matrix)})
+args <- commandArgs(trailingOnly=TRUE)
+set.seed(915)
+counts <- rsparsematrix(50,15,density=.35)
+counts@x <- abs(round(counts@x*20))+1
+rownames(counts) <- paste0('Gene',seq_len(nrow(counts)));colnames(counts) <- paste0('Cell',seq_len(ncol(counts)))
+cytomix_merge_all <- CreateSeuratObject(counts=CreateAssayObject(counts=counts),assay='RNA')
+cytomix_merge_all$assignment <- factor(rep(c('donorA','donorB','donorC'),5))
+cytomix_merge_all$perturbation <- rep(c('Control','TNFSF12','Control'),5)
+save(cytomix_merge_all,file=file.path(args[1],'serialization_fixture.Robj.gz'),compress='gzip',version=3)
+write.table(as.matrix(counts),file.path(args[1],'fixture_expected_counts.tsv'),sep='\t',quote=FALSE,col.names=NA)
+write.table(cytomix_merge_all@meta.data,file.path(args[1],'fixture_expected_metadata.tsv'),sep='\t',quote=FALSE,col.names=NA)

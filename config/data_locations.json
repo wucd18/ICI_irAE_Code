@@ -1,0 +1,12 @@
+{
+  "source_data": {
+    "provider": "Figshare",
+    "doi": "10.6084/m9.figshare.33872563",
+    "landing_url": "https://doi.org/10.6084/m9.figshare.33872563",
+    "verification": "Author-provided locator; archive download and path mapping not verified in this build"
+  },
+  "code_repository": "https://github.com/wucd18/ICI_irAE_Code",
+  "results_in_git": false,
+  "data_in_git": false,
+  "download_automatically": false
+}

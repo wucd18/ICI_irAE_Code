@@ -1,0 +1,14 @@
+{
+  "CODE_ROOT": "/absolute/path/ICI_irAE_Code",
+  "INPUT_ROOT": "/absolute/path/readonly_data",
+  "ARCHIVE_ROOT": "/absolute/path/readonly_archive",
+  "WORK_ROOT": "/absolute/path/isolated_work",
+  "executables": {
+    "python": null,
+    "rscript_original": null,
+    "rscript_targeted": null,
+    "rscript_presentation": null,
+    "node": null
+  },
+  "note": "Use existing absolute paths. Distinct R records remain distinct. No executable auto-installation; plan/stage only."
+}

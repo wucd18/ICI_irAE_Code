@@ -1,0 +1,11 @@
+# Unpinned source-derived requirements; NOT a freeze. Installation is a separate approved step.
+anndata
+beautifulsoup4
+h5py
+lxml
+numpy
+openpyxl
+pandas
+reportlab
+requests
+scipy
