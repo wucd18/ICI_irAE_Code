@@ -1,54 +1,30 @@
-# ICI-irAE analysis code
+# Mapping recurrent epithelial programmes of checkpoint inhibitor colitis to human organoid ligand responses
 
-**Code-only upload candidate — PORTABILITY_PENDING. This is not a validated end-to-end reproduction package.**
+Local final-code delivery, 18 October 2026.
 
-## Study
-These sources examine shared inflammatory pressure, context-dependent receiver-cell remodelling, disease-depleted epithelial programmes, and apparent transcriptional-restoration signals against tumour-response and off-target guardrails. Patients or released samples are the biological units. TCR is supportive evidence, not proof of an epithelial mechanism. AUC assesses repeatability, not diagnostic performance; absence of detected tumour harm does not establish pharmacologic safety.
+The current publication contains six main figures, seven supplementary figures on 19 pages, and nine editable result worksheets in one Supplementary_Tables.xlsx. This directory accompanies Submission_Text_Final.zip; it is not an online release.
 
-## Code only
-This repository contains analysis, data preparation, plotting and table-generation programs, configuration metadata and instructions. It contains no actual research results, finished figures, result workbooks, expression matrices, manuscript or data ZIP. `plotting/` contains programs, not pictures; `plotting/tables/` contains programs, not result tables. Results arise only from separately authorized runs with real inputs.
+## What to use
 
-## Directories
-| Directory | Contents |
-|---|---|
-| data_prep | Acquisition, patients, organoid exports/counts, conditional, spatial, and extracted display-input preparation |
-| analysis | Patient-level models, programmes, organoid, conditional, TCR, clinical and spatial; historical selection is separately labelled |
-| plotting | Recorded and historical renderers, later recovered figure versions, and table I/O |
-| config | Explicit path example and deliberately incomplete external-input manifest example |
-| environments | Source-derived dependency lists and the original presentation R session record |
-| workflow | Read-only planning, input hash/schema checks, and fresh external code staging |
-| tests | Engineering fixtures/static checks; archived scientific verifiers are separately labelled |
-| docs | Source identities, dependencies, external-input requirements, figure map and limitations |
+- `production/final_20261018/`: the actual current figure, supplement, table, Word and PDF generators, with explicit local input/output bindings.
+- `analysis/all_ligand/`: the retained all-ligand Python and R sources associated with the approved 16 October results.
+- `analysis/directional_background/`: the latest retained matched-background, non-rank, pool, composition and reference-comparison Python sources.
+- `recorded_upstream/`: relevant patient, programme, conditional, spatial and original organoid sources recovered from the existing recorded code tree.
+- `docs/source_code_manifest.json`: original locations/hashes and the packaged adaptation of each recovered file.
 
-## Data versus code
-`INPUT_ROOT` and `ARCHIVE_ROOT` are read-only external locations. Frozen gene memberships, patient mappings, saved estimates, historical decisions and display annotations are external inputs, even when small. The author-supplied [Figshare locator](https://doi.org/10.6084/m9.figshare.33872563) is a locator only: the exact remote version and member identities have not been verified in this build. Local fingerprints do not certify remote completeness.
+The new `rebuild_publication.py` wrapper binds paths and invokes the recovered generators. It is explicitly new glue code, not a recovered historical analysis script. Narrative edits in `revise_manuscript.py` were created and executed for this closeout against the exact reviewed manuscript.
 
-## Installation
-No packages were installed or upgraded. `environments/python_packages_from_imports.txt` and `r_packages_from_source.txt` are unpinned dependency candidates derived from code, not a freeze or lock. After approval, create an isolated Python environment and install the reviewed requirements there. R environments require separate CRAN/Bioconductor setup compatible with each recorded version. See [environment limitations](environments/README.md); do not silently unify the original R 4.2.2 launcher reference and the targeted/presentation R 4.4.1 records.
+Read [RUNNING.md](docs/RUNNING.md), [FIGURE_SOURCE_MAP.md](docs/FIGURE_SOURCE_MAP.md), and [ANALYSIS_SCOPE.md](docs/ANALYSIS_SCOPE.md) before use.
 
-## Configuration
-Copy `config/paths.example.json` to an ignored local config and supply absolute `CODE_ROOT`, `INPUT_ROOT`, `ARCHIVE_ROOT`, `WORK_ROOT` paths. Code and input roots must not overlap the work root. Executables are explicit; the tool does not discover private environments. Optional `OUTPUT_ROOT` must be beneath `WORK_ROOT`. Put a real versioned input manifest outside Git; the empty example intentionally fails verification.
+## Scope and executed checks
 
-## Concrete commands
-From this repository, using your configured Python executable:
-```text
-python -B tests/check_repository.py --r-parse --rscript /absolute/path/to/Rscript
-python -B tests/test_portability.py
-python -B workflow/stage_workspace.py --help
-python -B workflow/stage_workspace.py --config /absolute/path/paths.local.json --plan
-python -B workflow/stage_workspace.py --config /absolute/path/paths.local.json --verify-inputs /absolute/path/verified_inputs.json --plan
-python -B workflow/stage_workspace.py --config /absolute/path/paths.local.json --write
-```
-`--write` stages code only in `WORK_ROOT/runs/<unique_id>/`; it does not copy data, run models, render figures, or install software. Plans and help are read-only. New staging refuses existing run directories. Do not execute top-level legacy programs in the classified source tree. [RUN_ORDER.md](docs/RUN_ORDER.md) provides stage-specific command contracts and the remaining gates. There is no advertised one-command raw-to-final runner.
+The final production sources were used to rebuild all six figures and the 19-page supplement in a separate local output directory. Their plot-source values, PDF text and page geometry matched the delivery. The nine-table source generator produced identical table content. Actual Microsoft Word export produced the revised manuscript PDF.
 
-## Figure and script mapping
-[FIGURE_SOURCE_MAP.md](docs/FIGURE_SOURCE_MAP.md) distinguishes the recorded 180 mm six-figure renderer from later 170 mm subset sources, supplementary S5/S7 sources and workbook versions. Recovered code identity does not prove equivalence to every approved figure or table. No approved figure was regenerated or replaced.
+Scientific model scripts were recovered and parsed, not rerun. Current visual and numerical correspondence checks are not raw-data end-to-end reproduction. Detailed QA, logs, rendered pages, prior files and data remain in the local project archive and are intentionally absent from this code ZIP.
 
-## Reproduction levels
-Static syntax, source identity and engineering fixture checks were executed locally. Input fingerprints were checked for selected local candidates; comprehensive stage schemas and remote archive mapping remain incomplete. Model execution, numerical reproduction, full raw-to-final replay, and figure/workbook equivalence were **NOT_RUN**. A static PASS must never be relabelled as scientific reproduction.
+No source file required for current publication production was missing. External saved results, frozen membership definitions and the exact reviewed document baseline are required; their local bindings are documented. The bundled spreadsheet module and Word runtime are also required for the current original output route.
 
-## Known limits
-See [PORTABILITY.md](docs/PORTABILITY.md) for exact gaps: mixed legacy read/write layouts, CSV/TSV bridges, versioned input/member binding, externalized historical annotations/reference membership, missing local dependencies, the proprietary workbook runtime dependency, and incomplete final figure/layout correspondence. Fixed thresholds, seeds, model definitions, candidate gates and biological units were not tuned. Historical selection and donor re-evaluation are not new independent experiments. Historical machine identifiers such as `FUNCTION_RESCUE_CORE` remain identifiers; use “epithelial reciprocity core” in interpretation. SORL1 remains exploratory.
+## Publication and licensing
 
-## Licence and contact
-No licence or software-contributor list was invented. [LICENSING.md](docs/LICENSING.md) records the ownership/permission gap. The owner must retain any legitimate existing licence and confirm redistribution rights before publication. No CITATION.cff was fabricated. The supplied repository locator is [wucd18/ICI_irAE_Code](https://github.com/wucd18/ICI_irAE_Code); no remote repository, tag, release or manuscript was changed. No contact identity was inferred.
+The existing project repository is https://github.com/wucd18/ICI_irAE_Code. This local delivery has not been pushed, tagged or published, and creates no release or DOI. It does not replace the public root README automatically. No new licence is granted by this packaging step; retain applicable source rights and obtain the authors' licence decision before a public code release. Fonts, raw data, model objects and publication outputs are not redistributed here.
+

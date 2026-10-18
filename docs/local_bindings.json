@@ -1,0 +1,17 @@
+{
+  "ICI_DISPLAY_INPUT_ROOT": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\display_revision_v2",
+  "ICI_SUBMISSION_BASELINE": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\inputs\\submission_final",
+  "ICI_IBD_MEMBERSHIP": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\inputs\\IBD_membership_definitions.tsv",
+  "ICI_ALL_LIGAND_RUN": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3",
+  "ICI_DIRECTIONAL_RUN": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z",
+  "ICI_ORGANOID_SOURCE_ROOT": "E:/ICI_irAE_V1_Redline_Revision/20260913T220504Z_d38de3ca",
+  "ICI_RECORDED_CODE_ROOT": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY",
+  "ICI_PROJECT_ROOT": "E:\\ICI_irAE_Codex_Workspace",
+  "ICI_FROZEN_MEMBERSHIP": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\display_revision_v2\\source_data\\old\\Source_021_frozen_module_definitions.csv",
+  "plot_python": "D:/Software/python/python.exe",
+  "artifact_python": "C:\\Users\\frede\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "node": "C:\\Users\\frede\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe",
+  "pdftoppm": "C:\\Users\\frede\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin\\pdftoppm.exe",
+  "powershell": "C:\\Users\\frede\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell\\pwsh.exe",
+  "artifact_tool_module": "C:\\Users\\frede\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\node_modules\\@oai\\artifact-tool\\dist\\artifact_tool.mjs"
+}

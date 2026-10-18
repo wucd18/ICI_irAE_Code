@@ -1,0 +1,122 @@
+{
+  "template": "Author-specified 01_Journal_Upload_final.zip; Figure_1.pdf through Figure_6.pdf; ZIP SHA256 afa6b4c7c6a9647e0bb425f2f0e408ac6c48be57736a47dd525cd0c488f63e24",
+  "observed": {
+    "figure_width_mm": 170.0,
+    "original_figure_heights_mm": [
+      145.26,
+      175.3,
+      175.3,
+      175.3,
+      175.3,
+      165.61
+    ],
+    "embedded_fonts": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "body_label_pt_approx": 7.51,
+    "panel_title_pt_approx": 8.52,
+    "panel_letter_pt_approx": 9.52,
+    "panel_letters": "lowercase a,b,c...",
+    "manuscript_docDefaults": {
+      "font": "Times New Roman",
+      "size_pt": 12,
+      "line_spacing": "double"
+    },
+    "manuscript_title_size_pt": 14
+  },
+  "production_targets": {
+    "width_mm": 170,
+    "height_mm_range": [
+      160,
+      220
+    ],
+    "body_pt": 7.5,
+    "axis_pt": 7.5,
+    "tick_pt": 7,
+    "panel_title_pt": 8,
+    "panel_letter_pt": 8,
+    "font": "Arial",
+    "fallback_order": [
+      "Arimo",
+      "Liberation Sans",
+      "DejaVu Sans"
+    ],
+    "font_fallback_must_be_logged": true,
+    "axes_lw": 0.5,
+    "data_line_lw": 0.8,
+    "reference_line_lw": 0.5,
+    "point_size_pt": 3.8,
+    "panel_gap_mm": [
+      5,
+      8
+    ],
+    "background": "#FFFFFF",
+    "pdf_fonttype": 42,
+    "svg_fonttype": "none",
+    "preview_dpi": 180,
+    "raster_dpi_if_needed": 600
+  },
+  "palette": {
+    "ink": "#26343D",
+    "muted": "#9AA4AD",
+    "blue": "#356B91",
+    "blue_point": "#2B6E98",
+    "red": "#B84B46",
+    "teal": "#2E8079",
+    "purple": "#7560A8",
+    "gold": "#B58B20",
+    "magenta": "#A44D79",
+    "ne": "#E4E8EB",
+    "white": "#FFFFFF"
+  },
+  "family_colors": {
+    "Stem": "#2B6E98",
+    "Transit_Amplifying": "#B84B46",
+    "TA": "#B84B46",
+    "Colonocyte": "#7560A8",
+    "Goblet": "#B58B20"
+  },
+  "condition_colors": {
+    "ICI": "#B84B46",
+    "Control": "#9AA4AD",
+    "Healthy": "#9AA4AD",
+    "UC": "#2E8079"
+  },
+  "programme_colors": {
+    "IFN": "#A44D79",
+    "Disease-up": "#B58B20",
+    "Disease-depleted": "#2B6E98",
+    "Residual": "#7560A8"
+  },
+  "donor_markers": {
+    "DNW14": "o",
+    "DNW15": "s",
+    "DNW9": "^"
+  },
+  "class_colors": {
+    "BOTH": "#2E8079",
+    "UP_ONLY": "#356B91",
+    "DEPLETED_ONLY": "#B58B20",
+    "OTHER_OBSERVED": "#9AA4AD",
+    "NE": "#E4E8EB"
+  },
+  "heatmap": {
+    "negative": "#356B91",
+    "zero": "#FFFFFF",
+    "positive": "#B84B46",
+    "ne": "#E4E8EB",
+    "preserve_raw_values": true,
+    "sign_transform_in_display_dictionary": true,
+    "clip_marker": "triangle or dagger, NOT significance star",
+    "fixed_limits_within_same_method_programme": true
+  },
+  "prohibited": [
+    "screenshots repainted as final scientific graphs",
+    "font below 7 pt at final width",
+    "scaling A4-landscape page directly to 170 mm",
+    "changing values/zero thresholds/NE for appearance",
+    "GSEA significance applied to score deltas",
+    "mixing raw rank, nonrank log2, and cell ln scales on one axis"
+  ]
+}

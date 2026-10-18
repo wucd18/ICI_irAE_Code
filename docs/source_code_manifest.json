@@ -1,0 +1,562 @@
+[
+  {
+    "file": "production/final_20261018/code/plot_main.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\plot_main.py",
+    "original_sha256": "4156495649b32d9907d7fe4020d295beab29822bffde0ff6eef432a18f9d96b3",
+    "packaged_sha256": "3c8152e6185fa2a96ba8740b8b09b3d8e514c44ecc59091053728ea1e7b21dee",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/code/redraw_figure3.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\submission_production_20261018\\code\\redraw_figure3.py",
+    "original_sha256": "8f1a62ef8f73bc4517ebf5d38d4cbff0228454ba4111b5dae890abe3394cc197",
+    "packaged_sha256": "2a954bee0e77210838c9718a1fb48cd9b3f83ac934755c4bc1bd4b842ef9963b",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "output/input root environment variables only"
+  },
+  {
+    "file": "production/final_20261018/code/redraw_main_4_to_6.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\redraw_main_4_to_6.py",
+    "original_sha256": "6b27a1424b6fbf5114a0667c09877508e51d647214d902660624441d0c4e0416",
+    "packaged_sha256": "6b27a1424b6fbf5114a0667c09877508e51d647214d902660624441d0c4e0416",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "production/final_20261018/code/plot_supplement_final.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\plot_supplement_final.py",
+    "original_sha256": "873c162400f6b084cbd63347e70491a41b6ba4d4a720f17057cbd2e94f4ca599",
+    "packaged_sha256": "873c162400f6b084cbd63347e70491a41b6ba4d4a720f17057cbd2e94f4ca599",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "production/final_20261018/code/theme_01.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\theme_01.py",
+    "original_sha256": "0d64fcc6130de35879881bb315b328e50cdc4c01ff9a21a98ca1b323b3982de9",
+    "packaged_sha256": "6cfb517f505549ccc57303cb1b2b96a9a3f41af94fe2d6c736f4d306987caea2",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "output/input root environment variables only"
+  },
+  {
+    "file": "production/final_20261018/code/assemble_main.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\assemble_main.py",
+    "original_sha256": "26b61563b4b9fa29efa388e4c84254ac70b02334a6e4ec9132e79a01d825ddf0",
+    "packaged_sha256": "cc966f1c477500d520dc8985411e96b1918526790eab5c36938b7c0c6fb93e02",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "output/input root environment variables only"
+  },
+  {
+    "file": "production/final_20261018/code/assemble_supplement_final.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\assemble_supplement_final.py",
+    "original_sha256": "dcd3496188f6e0302f80bdd087e70bd7d4f6875282cf8a4970e8422c8f1cce9d",
+    "packaged_sha256": "6a3dd8b615eaab2f675247c58092ee8f9faf31fed8bb8bcc6387adc9e2ba6186",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/code/prepare_tables.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\submission_production_20261018\\code\\prepare_tables.py",
+    "original_sha256": "50aa1356bf27efda95147adb37c64091f2c3c287643d078948838c4f23bbb17c",
+    "packaged_sha256": "e487942621ad1f1a8d4781f683f92ba28bad4d0abb5ff4f27ee3d32b4a5301b0",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/code/build_workbook.mjs",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\submission_production_20261018\\code\\build_workbook.mjs",
+    "original_sha256": "baf0d65b70272bf77e3bbff5dfbd4c587900f35965426863ac689c64741df614",
+    "packaged_sha256": "1e3c017452a40f667bf378dd1331d64112c0bceec2df0490cbe38dde645df598",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/code/render_main_rasters.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\render_main_rasters.py",
+    "original_sha256": "83f4ed26f69de4bf353d84dd26c8ad695c0ac67d447768b458eeb22a72ee7cf9",
+    "packaged_sha256": "62e8c581828179590ef7517e23bf9bcacc67d3a58409e1a53c5edb9bd3466c3d",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "output/input root environment variables only"
+  },
+  {
+    "file": "production/final_20261018/code/revise_manuscript.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\revise_manuscript.py",
+    "original_sha256": "c57a9321949a1e5d0c2e610b59b7711a9d6085638f14cb43b341fbf996de5509",
+    "packaged_sha256": "c57a9321949a1e5d0c2e610b59b7711a9d6085638f14cb43b341fbf996de5509",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "production/final_20261018/code/assemble_manuscript_pdf.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\assemble_manuscript_pdf.py",
+    "original_sha256": "68f7fe002517c54aab9351cb34fee452f0df872915f26f033b99fde1a28752da",
+    "packaged_sha256": "bd492d0c01431527cc820038938e5abab30b87fdceac2e7409104d48b4d89f8d",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/code/export_documents.ps1",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\code\\export_documents.ps1",
+    "original_sha256": "32be2f020ff3245dca7215547db0fdc6f304589f6540d6baf44503f1c924c8b4",
+    "packaged_sha256": "e560611044c2441eecf04900afbb07bc986efc6d6b67b059918b78722657c139",
+    "role": "Current publication production; table builder is the real previous executed generator, unchanged workbook retained",
+    "adaptation": "explicit output/input/font path parameters only"
+  },
+  {
+    "file": "production/final_20261018/config/style_01.json",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\config\\style_01.json",
+    "original_sha256": "2d3e494b311adc63844cdec5e22b2dcee707d3a27257b25d68bc45ddca962e5b",
+    "packaged_sha256": "2d3e494b311adc63844cdec5e22b2dcee707d3a27257b25d68bc45ddca962e5b",
+    "role": "Approved rendering configuration",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "production/final_20261018/config/layout.json",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_Figure_Integration_01Style_Codex_Kit\\Codex_Integration_Kit\\ICI_01_STYLE_INTEGRATION_20261017T143605Z\\text_code_final_pass_20261018\\config\\layout.json",
+    "original_sha256": "ff01f8459ed56e1ba923f14288d9cf7377e7f45b181e0cb587a6c5fbb17c1688",
+    "packaged_sha256": "ff01f8459ed56e1ba923f14288d9cf7377e7f45b181e0cb587a6c5fbb17c1688",
+    "role": "Approved rendering configuration",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/analysis_functions.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\analysis_functions.py",
+    "original_sha256": "f22de91098a32f4b7933561ea423176b27f5163b155bd5041ab460661f18f754",
+    "packaged_sha256": "f22de91098a32f4b7933561ea423176b27f5163b155bd5041ab460661f18f754",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/check_new_models.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\check_new_models.py",
+    "original_sha256": "6c368880593afdbae962036d75e2212530f66e6e2797e791918f91a6fda6f7da",
+    "packaged_sha256": "6c368880593afdbae962036d75e2212530f66e6e2797e791918f91a6fda6f7da",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/check_products.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\check_products.py",
+    "original_sha256": "c1ca848b80fc27dd53bfcd44433c8cb29a2fb3d904898f30e1282aa870d33ba1",
+    "packaged_sha256": "c1ca848b80fc27dd53bfcd44433c8cb29a2fb3d904898f30e1282aa870d33ba1",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/combine_gsea.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\combine_gsea.py",
+    "original_sha256": "b6994ceaab78e86eb2248140bf737c3574736930a5398bbbab34c1070009c265",
+    "packaged_sha256": "b6994ceaab78e86eb2248140bf737c3574736930a5398bbbab34c1070009c265",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/common.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\common.py",
+    "original_sha256": "bed914886a10b865762c6dea0296180d6695b5b68c16aa852804b8da8204d9c1",
+    "packaged_sha256": "0bb6b7c7a980f1f5c44ef79064e29e32f423b6d1db2b41e4b61741501aca8837",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "Required external analysis/source root environment variables only; scientific formulas unchanged"
+  },
+  {
+    "file": "analysis/all_ligand/code/diagnose_runtime_exit.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\diagnose_runtime_exit.py",
+    "original_sha256": "20dc65f44acb1b17d40ccf94fda4498f6a05df3442bf24b8cb41f764e5804d26",
+    "packaged_sha256": "20dc65f44acb1b17d40ccf94fda4498f6a05df3442bf24b8cb41f764e5804d26",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/extract_publisher_metadata.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\extract_publisher_metadata.py",
+    "original_sha256": "2d53d4905bc8ddc6a71ee048910f0c97395b3a6b5f6c5f8acdfd01d31875a57a",
+    "packaged_sha256": "2d53d4905bc8ddc6a71ee048910f0c97395b3a6b5f6c5f8acdfd01d31875a57a",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/finalize_package.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\finalize_package.py",
+    "original_sha256": "d633eeb3296eb42c4624e5dc943995805004cb83720169695311e57f62d0e914",
+    "packaged_sha256": "d633eeb3296eb42c4624e5dc943995805004cb83720169695311e57f62d0e914",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/increment_models.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\increment_models.R",
+    "original_sha256": "12a84b6a464e2121c09cab9fd16a376396e029ae05bb415d39985b849d5e7022",
+    "packaged_sha256": "12a84b6a464e2121c09cab9fd16a376396e029ae05bb415d39985b849d5e7022",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/plot_increment.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\plot_increment.py",
+    "original_sha256": "fb65bc5165ed31ea5b9e4f01a43fa9e08c3766f3f8abef11f292841dbf4ffa68",
+    "packaged_sha256": "fb65bc5165ed31ea5b9e4f01a43fa9e08c3766f3f8abef11f292841dbf4ffa68",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/prepare_increment.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\prepare_increment.py",
+    "original_sha256": "6116f7a33971baf0c611d4e2bd09da8de824ca0a6908b8f405e7d77694c63de4",
+    "packaged_sha256": "6116f7a33971baf0c611d4e2bd09da8de824ca0a6908b8f405e7d77694c63de4",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/prepare_recovery.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\prepare_recovery.py",
+    "original_sha256": "fc9a7ea368d509524d12f67489cf344270b408872ca629285e97e4cafc90d2ec",
+    "packaged_sha256": "fc9a7ea368d509524d12f67489cf344270b408872ca629285e97e4cafc90d2ec",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/preserve_history.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\preserve_history.py",
+    "original_sha256": "b95518c98ca80b8d4cd8c2ac56c118393a403c9557f4821e5eeccd7bb2bc45eb",
+    "packaged_sha256": "b95518c98ca80b8d4cd8c2ac56c118393a403c9557f4821e5eeccd7bb2bc45eb",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/record_visual_review.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\record_visual_review.py",
+    "original_sha256": "1c0b7394ddb92323d2227403c4b40abd70d01a942c67c047e27effdf32e88b9d",
+    "packaged_sha256": "1c0b7394ddb92323d2227403c4b40abd70d01a942c67c047e27effdf32e88b9d",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/recover_enrichment.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\recover_enrichment.R",
+    "original_sha256": "d1888a9c8a6bc6f8754a66ab879f98f5e6dcbdaffe5b3f97601f22c9e23bb01e",
+    "packaged_sha256": "d1888a9c8a6bc6f8754a66ab879f98f5e6dcbdaffe5b3f97601f22c9e23bb01e",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/render_pdf_review.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\render_pdf_review.py",
+    "original_sha256": "43c405566687b69b6c8c11159ce03c0a990f8b6211d4dc441c40e013930fca06",
+    "packaged_sha256": "43c405566687b69b6c8c11159ce03c0a990f8b6211d4dc441c40e013930fca06",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/run_enrichment_recovery.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\run_enrichment_recovery.py",
+    "original_sha256": "5e516f4972699cff692480464d6a32ba71bc9ce03a8a73aa455ecdf958186603",
+    "packaged_sha256": "5e516f4972699cff692480464d6a32ba71bc9ce03a8a73aa455ecdf958186603",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/run_increment.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\run_increment.py",
+    "original_sha256": "a07b8e0832a832098a99f1a0b0f05a47183e516fbbdfc962e0975864166d7bf7",
+    "packaged_sha256": "a07b8e0832a832098a99f1a0b0f05a47183e516fbbdfc962e0975864166d7bf7",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/score_ibd_references.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\score_ibd_references.py",
+    "original_sha256": "e4727f7596752aac48089e4e09bda247e1ef640f01e568749cd78b1ddfe28684",
+    "packaged_sha256": "e4727f7596752aac48089e4e09bda247e1ef640f01e568749cd78b1ddfe28684",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/stream_r_object.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\stream_r_object.py",
+    "original_sha256": "dbf734a9e96c5e61cff9750cac682243c75a30ee6c3229e52bc9d360c1a56279",
+    "packaged_sha256": "dbf734a9e96c5e61cff9750cac682243c75a30ee6c3229e52bc9d360c1a56279",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/summarize_scores.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\summarize_scores.py",
+    "original_sha256": "4229fbe2397b77e936a3a6d159d0612dca7306a84d571b0e6e5a9b7b34d2626d",
+    "packaged_sha256": "4229fbe2397b77e936a3a6d159d0612dca7306a84d571b0e6e5a9b7b34d2626d",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/test_increment.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\test_increment.py",
+    "original_sha256": "940dc11321085455eb5292bd54103feab52d01f66d54220c81777683032b55d3",
+    "packaged_sha256": "940dc11321085455eb5292bd54103feab52d01f66d54220c81777683032b55d3",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/code/write_manuscript_additions.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\code\\write_manuscript_additions.py",
+    "original_sha256": "bec37be66061404e8300f82c431b1980985f4791a57cff59c1d9c0255896e203",
+    "packaged_sha256": "bec37be66061404e8300f82c431b1980985f4791a57cff59c1d9c0255896e203",
+    "role": "Authentic all-ligand analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/add_context_summaries.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\add_context_summaries.py",
+    "original_sha256": "4ad3d16930ad9f1eee81aa2b4c89992ba265fe726f77effc6f6cd3e93349f034",
+    "packaged_sha256": "4ad3d16930ad9f1eee81aa2b4c89992ba265fe726f77effc6f6cd3e93349f034",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/build_libraries.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\build_libraries.py",
+    "original_sha256": "2a936af2848716612b0d12cbcc9f84055c330ae74a7c75a8cd4c7798011d6e6d",
+    "packaged_sha256": "2a936af2848716612b0d12cbcc9f84055c330ae74a7c75a8cd4c7798011d6e6d",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/check_and_provenance.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\check_and_provenance.py",
+    "original_sha256": "2e3540d51fed496f983d16ed69b94ab73e6178f194101e5a188c9013d9ee8a6d",
+    "packaged_sha256": "2e3540d51fed496f983d16ed69b94ab73e6178f194101e5a188c9013d9ee8a6d",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/common.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\common.py",
+    "original_sha256": "e38cd5aab65d492ea4b129287243b28a874cc580e01f36f8a5a2e5c5099a3ff7",
+    "packaged_sha256": "33410a11512611c8cc36142bb0dc659e184ec1f86d5d3966010e0930c54daef5",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "Required external analysis/source root environment variables only; scientific formulas unchanged"
+  },
+  {
+    "file": "analysis/directional_background/code/composition_sensitivity.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\composition_sensitivity.py",
+    "original_sha256": "241febe9bcd02efa3a33177cd9a96831e9b0658c556a621eb82b86f705f64a25",
+    "packaged_sha256": "241febe9bcd02efa3a33177cd9a96831e9b0658c556a621eb82b86f705f64a25",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/extract_publisher_context.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\extract_publisher_context.py",
+    "original_sha256": "3b9a2f5964999fc1c0cdca8273772755cf0d4e7c0a0a2aaaf492455eb034d1d3",
+    "packaged_sha256": "3b9a2f5964999fc1c0cdca8273772755cf0d4e7c0a0a2aaaf492455eb034d1d3",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/finalize_delivery.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\finalize_delivery.py",
+    "original_sha256": "fc22e5b5d2a5d8b731c0f75ac16a480b113ae41581b1814bf236f6c697adf543",
+    "packaged_sha256": "fc22e5b5d2a5d8b731c0f75ac16a480b113ae41581b1814bf236f6c697adf543",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/finish_document_qa.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\finish_document_qa.py",
+    "original_sha256": "1c32f7a16101d94ceab0195f5e26e2f6cfa41d83aa38c33d7001f3c6f24cf3bd",
+    "packaged_sha256": "1c32f7a16101d94ceab0195f5e26e2f6cfa41d83aa38c33d7001f3c6f24cf3bd",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/main_scores.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\main_scores.py",
+    "original_sha256": "29e1b3e1ef86b10109660a84e16c93f10fdf1e34170e08599a9154dd49fb7433",
+    "packaged_sha256": "29e1b3e1ef86b10109660a84e16c93f10fdf1e34170e08599a9154dd49fb7433",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/plot_sensitivity.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\plot_sensitivity.py",
+    "original_sha256": "68f3a27ab8889414469bb6c24786a1359033d9ed7b76807d5e056f75718f77e1",
+    "packaged_sha256": "68f3a27ab8889414469bb6c24786a1359033d9ed7b76807d5e056f75718f77e1",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/pool_sensitivity.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\pool_sensitivity.py",
+    "original_sha256": "47df37788ffe51814a99bba08d67bb70c6319d66c0469bc47f6cf7b5c1fa2dea",
+    "packaged_sha256": "47df37788ffe51814a99bba08d67bb70c6319d66c0469bc47f6cf7b5c1fa2dea",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/prepare_context.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\prepare_context.py",
+    "original_sha256": "4c39a1b4e60e0d45773ff5199fb3b3a9c3250af07f50a686900c702a2768f42b",
+    "packaged_sha256": "4c39a1b4e60e0d45773ff5199fb3b3a9c3250af07f50a686900c702a2768f42b",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/preserve_partial_raw.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\preserve_partial_raw.py",
+    "original_sha256": "bbcc1290cb04da0a8fb5a32bc87bd70216b8d77aa790078bc53f475b8e1903bd",
+    "packaged_sha256": "bbcc1290cb04da0a8fb5a32bc87bd70216b8d77aa790078bc53f475b8e1903bd",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/render_review.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\render_review.py",
+    "original_sha256": "cd6a13e845471b4a52b4d5dd3dd8926cd241faf14401bdaf107b1fa0199aaafd",
+    "packaged_sha256": "cd6a13e845471b4a52b4d5dd3dd8926cd241faf14401bdaf107b1fa0199aaafd",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/run_step.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\run_step.py",
+    "original_sha256": "114a571f2f9191833e688c74e6deac4d74198ae285175d9b632b4da46dd15561",
+    "packaged_sha256": "114a571f2f9191833e688c74e6deac4d74198ae285175d9b632b4da46dd15561",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/stream_r_object.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\stream_r_object.py",
+    "original_sha256": "dbf734a9e96c5e61cff9750cac682243c75a30ee6c3229e52bc9d360c1a56279",
+    "packaged_sha256": "dbf734a9e96c5e61cff9750cac682243c75a30ee6c3229e52bc9d360c1a56279",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/summarize_sensitivity.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\summarize_sensitivity.py",
+    "original_sha256": "29482abf5066d627d2b4a66999a8408e484ee41d17ab599164eeac7d32c3f62c",
+    "packaged_sha256": "29482abf5066d627d2b4a66999a8408e484ee41d17ab599164eeac7d32c3f62c",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/test_sensitivity.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\test_sensitivity.py",
+    "original_sha256": "5720c9906487139504a79ec6b2d3eded8614c3c8b7874e3bbc629acd4131fc4b",
+    "packaged_sha256": "5720c9906487139504a79ec6b2d3eded8614c3c8b7874e3bbc629acd4131fc4b",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/code/write_text_and_context.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\code\\write_text_and_context.py",
+    "original_sha256": "a239ee62c4dd925ca9cc999903dcba27bfdf630671c4d2d732719952d9d9ec30",
+    "packaged_sha256": "a239ee62c4dd925ca9cc999903dcba27bfdf630671c4d2d732719952d9d9ec30",
+    "role": "Authentic latest sensitivity analysis source; not executed in final presentation task",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/patient_level/run_patient_level_pseudobulk_de.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\patient_level\\run_patient_level_pseudobulk_de.R",
+    "original_sha256": "b949011007ee487a9f61792fabe6eec3fbaeb47b98b1c6e154e36302df6a001c",
+    "packaged_sha256": "b949011007ee487a9f61792fabe6eec3fbaeb47b98b1c6e154e36302df6a001c",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/patient_level/run_independent_colon_pseudobulk_de.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\patient_level\\run_independent_colon_pseudobulk_de.R",
+    "original_sha256": "dbdc3f7d5954d5af7822436239e2b6821652bf865c35778aca7f8b67647f33b0",
+    "packaged_sha256": "dbdc3f7d5954d5af7822436239e2b6821652bf865c35778aca7f8b67647f33b0",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/patient_level/run_spatial_sample_pseudobulk_de.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\patient_level\\run_spatial_sample_pseudobulk_de.R",
+    "original_sha256": "0cbaa37acc9d9f7d23624ce07052f40da50e9354f343683fd32e5e65c2fdc4fd",
+    "packaged_sha256": "0cbaa37acc9d9f7d23624ce07052f40da50e9354f343683fd32e5e65c2fdc4fd",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/programmes/derive_and_validate_irAE_modules.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\programmes\\derive_and_validate_irAE_modules.R",
+    "original_sha256": "20d0c3e04069fd8c06b6bb4136df108b7d1b545e0d4aa8623a8b5833bed5d10b",
+    "packaged_sha256": "20d0c3e04069fd8c06b6bb4136df108b7d1b545e0d4aa8623a8b5833bed5d10b",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/programmes/evaluate_patient_level_module_performance.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\programmes\\evaluate_patient_level_module_performance.py",
+    "original_sha256": "cab680794f4d7e53a8f7e245688bd5418e70dac0887e5151f7d4fcceeda99d4e",
+    "packaged_sha256": "cab680794f4d7e53a8f7e245688bd5418e70dac0887e5151f7d4fcceeda99d4e",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/conditional/conditional_analysis.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\conditional\\conditional_analysis.R",
+    "original_sha256": "d022c25f278188fdd7bd25a05471c7628cbaffbc4316fa148258405717b87b66",
+    "packaged_sha256": "d022c25f278188fdd7bd25a05471c7628cbaffbc4316fa148258405717b87b66",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/spatial/analyze_spatial_frozen.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\spatial\\analyze_spatial_frozen.py",
+    "original_sha256": "c9d3c112c3cd7c06ac8219e6cc00d4348c57d3b8a4943d4ae86330e8d5ac9a71",
+    "packaged_sha256": "c9d3c112c3cd7c06ac8219e6cc00d4348c57d3b8a4943d4ae86330e8d5ac9a71",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/spatial/xenium_spatial_followthrough.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\spatial\\xenium_spatial_followthrough.py",
+    "original_sha256": "8cced6d43d3a277106f4187974756aca6200c74355aca8ade9701c339f4f83d9",
+    "packaged_sha256": "8cced6d43d3a277106f4187974756aca6200c74355aca8ade9701c339f4f83d9",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/organoid/analyze_organoid.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\organoid\\analyze_organoid.R",
+    "original_sha256": "1861f370e9b08cdc456299d892889818a6cda7c2415ff7e1018b60f924c4aae3",
+    "packaged_sha256": "1861f370e9b08cdc456299d892889818a6cda7c2415ff7e1018b60f924c4aae3",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/analysis/organoid/finalize_organoid.py",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\analysis\\organoid\\finalize_organoid.py",
+    "original_sha256": "1384c27ae908812edfe4d007a129538cb776c9488970618780dbebfb98c8828e",
+    "packaged_sha256": "1384c27ae908812edfe4d007a129538cb776c9488970618780dbebfb98c8828e",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "recorded_upstream/config/recorded/project_config.R",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\ICI_GITHUB_DELIVERY_20260925T205153\\GITHUB_UPLOAD_READY\\config\\recorded\\project_config.R",
+    "original_sha256": "0eae9a5f6610fc0b98796fd1e833cb1af8e8cdf5944d71f134ae47f22a0ad5af",
+    "packaged_sha256": "0eae9a5f6610fc0b98796fd1e833cb1af8e8cdf5944d71f134ae47f22a0ad5af",
+    "role": "Retained genuine patient/targeted R or Python source; external recorded project binding required",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/all_ligand/analysis_config.json",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_ALL_LIGANDS_20261016T152734Z_r3\\analysis_config.json",
+    "original_sha256": "13c2ef815f1baa13c6c4379ef2f6f332f4c5ad1de4884b12b4106c4db03596d4",
+    "packaged_sha256": "13c2ef815f1baa13c6c4379ef2f6f332f4c5ad1de4884b12b4106c4db03596d4",
+    "role": "Original analysis parameters; not a new analysis run",
+    "adaptation": "byte-identical"
+  },
+  {
+    "file": "analysis/directional_background/analysis_amendment.md",
+    "original_path": "E:\\ICI_irAE_Codex_Workspace\\runs\\CSBJ_DIRECTIONAL_BACKGROUND_20261016T183734Z\\analysis_amendment.md",
+    "original_sha256": "23230140a7d94f1b2643bc890218da3b655c82ca8d510c132dcd9e8ef6b99871",
+    "packaged_sha256": "23230140a7d94f1b2643bc890218da3b655c82ca8d510c132dcd9e8ef6b99871",
+    "role": "Original analysis parameters; not a new analysis run",
+    "adaptation": "byte-identical"
+  }
+]

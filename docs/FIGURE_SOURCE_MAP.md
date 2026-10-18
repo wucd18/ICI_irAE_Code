@@ -1,16 +1,28 @@
-# Figure and table source versions
+# Current figure and table source map
 
-| Version/topic | Real retained source | Confirmed from source | Still unverified |
-|---|---|---|---|
-| Recorded main figures | `plotting/recorded_closeout/plot_final.R`, `theme_final.R`, `csv_io.R` | Six recorded figures; 180 mm width; F6B contains a descriptive OLS line/band | Complete approved-version equivalence and external snapshot bindings |
-| Later local main subset | `plotting/final_20260917/plot_final.R`, `theme_final.R`, `registered_original_csv_io.R` | Recovered from the final local build; width 170 mm; Figs 2/3/5/6; `mode=final` | Figs 1/4 final source closure, publication-version/layout identity; no replay |
-| Recorded selected supplement | `plotting/recorded_closeout/plot_supplement_final.R` and `plot_organoid_supplement.R` | Distinct source-input/layout contracts | Final supplement mapping, not inferred from filename alone |
-| Later S5/S7 | `plotting/supplement_20260917/prepare_plot_data.py`, `render_figures.py`, adapted `common.py` | Real CSV-to-display preparation and PDF-vector renderer | Inputs, fonts, exact final layouts, approved replay |
-| Targeted extension/historical main | `plotting/targeted/*`, `plotting/historical_targeted/plot_v1.R` | Preserved distinct historical versions | Not automatically promoted to the final publication |
-| Historical main/tables | `plotting/historical/make_manuscript_figures.R`, `plotting/tables/historical/build_final_synthesis_tables.py` | Numeric annotations/decisions now external inputs; original code retained locally | Exact annotations/archived report input binding |
-| Recorded workbook | `plotting/tables/recorded/prepare_workbook.py`, `build_workbook.mjs` | True reader-table preparation and spreadsheet renderer | Public runtime portability and real cell/layout equivalence |
-| Later workbook I/O | `plotting/tables/final_20260917/finalize_workbook.py`, adapted `common.py` | Real selective OOXML transfer with cell-value invariance checks | Exact external workbook/intermediate/edit-ledger binding and replay |
+All production paths below are within production/final_20261018/code. The display input root is external and is recorded in local_input_locations.json.
 
-The two `plot_organoid_supplement.R` files are retained under different origins and stage families. They are never deduplicated by basename. All origin and adapted hashes appear in `script_index.csv`.
+| Publication output | Actual current generator | Inputs and interpretation |
+|---|---|---|
+| Figure 1 | plot_main.py, assemble_main.py | Fixed programme definitions, patient coverage and patient-level scores from source_data/old |
+| Figure 2 | plot_main.py, assemble_main.py | Patient enrichment, descriptive AUC and Oxford results from source_data/old |
+| Figure 3 | redraw_figure3.py, assemble_main.py | Complete planned comparison coverage, three representations and donor effects; approved v1_panel_data used where specified by the recovered code |
+| Figures 4–6 | redraw_main_4_to_6.py, assemble_main.py | source_data/new donor changes, member effects, composition and reference overlap/correlation tables |
+| Figure S1 | plot_supplement_final.py, assemble_supplement_final.py | External and discovery programmes, AUC and individual patient scores |
+| Figure S2 | same | Existing IFN-adjusted associations and observed support; residual c–g above depleted h–l |
+| Figure S3 | same | Oxford four-programme assessment and Xenium descriptive epithelial scores |
+| Figure S4 | same | One complete non-rank continuous ligand-response atlas across the four families |
+| Figure S5 | same | Direction, matched-background and experimental-pool sensitivity summaries |
+| Figure S6 | same | All original/additional Both combinations and score-dependent donor changes |
+| Figure S7 | same | Recovered composition, fixed-state-weight responses and remaining-family reference scatterplots |
+| Tables S1–S9 | prepare_tables.py, build_workbook.mjs | Complete defined publication sections from saved old/new results plus pinned IBD memberships |
+| Manuscript and Table 1 | revise_manuscript.py | Exact reviewed ZIP baseline plus bounded text/reference edits and refreshed figure previews |
+| Manuscript_with_Figures.pdf | export_documents.ps1, assemble_manuscript_pdf.py | Actual Word export plus six native vector figure pages |
+| Cover_Letter.docx | preserved baseline file | Authors, reviewers and existing 16 October date retained |
 
-The required scientific architecture (study → receiver remodelling → frozen programme transfer → supportive TCR → organoid/TNFSF12 → final guardrail decision) is a scientific contract. Historical file/panel numbering is preserved as evidence; it was not rewritten to suggest that every archived publication version already matches that contract. Figure 6 remains the required final decision figure for any future coherent release. No manuscript, figure number or approved figure was edited in this task.
+The current workbook is byte-identical to the reviewed workbook. Its genuine previous generator is included and its newly parameterized table-source preparation was executed with identical content. No spreadsheet data were recomputed.
+
+theme_01.py and style_01.json control stable family colours, donor shapes and local fonts; figure_layout.json controls panel layout. render_main_rasters.py supplies Word previews. The two contrast fixes choose black or white label text on unchanged S5e/S6a classification colours. All NE cells, donor points, original ranges and result values remain.
+
+The earlier 25-page supplement/nine-workbook layout is not the current production route. Older plot and prose scripts under the analysis folders are retained as scientific-run source history; use only production/final_20261018 for this publication layout.
+

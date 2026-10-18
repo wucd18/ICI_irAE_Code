@@ -1,0 +1,13 @@
+{
+  "scientific_R": "4.4.1",
+  "edgeR": "4.2.2",
+  "DESeq2": "1.44.0",
+  "fgsea": "1.30.0",
+  "scientific_Python": "3.12.0",
+  "numpy": "2.0.2",
+  "pandas": "2.2.3",
+  "matplotlib": "3.9.3",
+  "document_renderer": "Microsoft Word 16 COM on Windows",
+  "spreadsheet_renderer": "@oai/artifact-tool 2.8.99 in Codex bundled runtime 26.1015.12040",
+  "status": "Historical scientific versions and current production dependencies; no scientific environment installed or upgraded"
+}
